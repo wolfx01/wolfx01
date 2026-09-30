@@ -1,9 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Bilal%20Chouichou&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40" width="100%"/>
 
 <p align="center">
-  <a href="https://komarev.com/ghpvc/?username=wolfx01">
-    <img src="https://komarev.com/ghpvc/?username=wolfx01&label=Profile%20views&color=00FFFF&style=flat-square" alt="wolfx01's profile views" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=wolfx01&label=Profile%20Views&color=6f42c1&style=flat" alt="wolfx01 profile views" />
 </p>
 
 <img src="https://i.pinimg.com/originals/f5/03/b5/f503b5d3eceb6a2e621773eb53a2f39c.gif" alt="Banner" width="100%" />
