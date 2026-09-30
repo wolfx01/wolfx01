@@ -1,6 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Bilal%20Chouichou&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40" width="100%"/>
-
-![Profile views](https://komarev.com/ghpvc/?username=wolfx01&color=blueviolet&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=wolfx01&label=PROFILE+VIEWS&color=blueviolet&style=flat-square)
 <img src="https://i.pinimg.com/originals/f5/03/b5/f503b5d3eceb6a2e621773eb53a2f39c.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
