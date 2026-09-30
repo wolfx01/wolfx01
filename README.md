@@ -1,8 +1,15 @@
+
+
+
+
 <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Bilal%20Chouichou&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40" width="100%"/>
 
-
-![Profile Views](https://komarev.com/ghpvc/?username=wolfx01&label=PROFILE+VIEWS&color=blueviolet&style=flat-square)
-
+<p align="center">
+  <img
+    src="https://visitor-badge.laobi.icu/badge?page_id=wolfx01.wolfx01&left_text=Profile%20views&left_color=%23595959&right_color=%2300FFFF"
+    alt="wolfx01's profile views"
+  />
+</p>
 
 <img src="https://i.pinimg.com/originals/f5/03/b5/f503b5d3eceb6a2e621773eb53a2f39c.gif" alt="Banner" width="100%" />
 
